@@ -7,4 +7,4 @@
 
 ## ⭐ | Please support this project by giving it a star.
 
-### [Check out other projects by me.](https://github.com/whoisvax/linkvertise/edit/main/README.md)
+### [Check out other projects by me.](https://github.com/whoisvax/)
